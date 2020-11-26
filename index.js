@@ -4,4 +4,6 @@ let divide = function(){
 
 let square = x => x**2
 
-let add = (parameter1, parameter2) => 
+let add = (param1, param2) => {
+  return param1 + param2
+}
